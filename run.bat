@@ -1,0 +1,2 @@
+python MammogramCancerDetection.py
+pause
